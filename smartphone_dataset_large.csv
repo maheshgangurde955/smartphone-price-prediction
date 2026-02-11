@@ -1,0 +1,221 @@
+Brand,Series,Model_Name,RAM_GB,Storage_GB,Camera_MP,Battery_mAh,Processor,Screen_Size,5G,Price_INR
+Samsung,Galaxy A,Galaxy A 1,8,512,48,4000,Exynos,6.8,1,53514
+Samsung,Galaxy A,Galaxy A 2,4,256,108,6000,Exynos,6.9,1,40069
+Samsung,Galaxy A,Galaxy A 3,4,256,64,5000,Exynos,6.3,1,33774
+Samsung,Galaxy A,Galaxy A 4,12,64,108,4000,Snapdragon,6.7,1,51100
+Samsung,Galaxy A,Galaxy A 5,6,64,50,4500,Exynos,6.5,0,34176
+Samsung,Galaxy A,Galaxy A 6,4,128,200,4500,Exynos,6.9,0,52934
+Samsung,Galaxy A,Galaxy A 7,12,256,64,6000,Snapdragon,6.5,0,55482
+Samsung,Galaxy A,Galaxy A 8,8,128,50,4500,Exynos,6.6,0,44786
+Samsung,Galaxy A,Galaxy A 9,12,256,48,4000,Snapdragon,6.9,0,50492
+Samsung,Galaxy A,Galaxy A 10,8,512,64,3200,Snapdragon,6.7,1,55210
+Samsung,Galaxy M,Galaxy M 1,4,512,50,3200,Exynos,6.7,1,39597
+Samsung,Galaxy M,Galaxy M 2,6,256,50,4500,Snapdragon,6.6,1,37503
+Samsung,Galaxy M,Galaxy M 3,8,256,48,6000,Snapdragon,6.9,0,47934
+Samsung,Galaxy M,Galaxy M 4,4,512,12,3200,Exynos,6.5,0,40317
+Samsung,Galaxy M,Galaxy M 5,8,128,12,6000,Snapdragon,6.0,0,36358
+Samsung,Galaxy M,Galaxy M 6,4,512,50,5000,Exynos,6.0,1,48697
+Samsung,Galaxy M,Galaxy M 7,6,256,50,4500,Snapdragon,6.7,0,40857
+Samsung,Galaxy M,Galaxy M 8,12,512,64,5000,Snapdragon,6.7,1,64360
+Samsung,Galaxy M,Galaxy M 9,12,64,50,5000,Snapdragon,6.7,0,49509
+Samsung,Galaxy M,Galaxy M 10,8,128,200,4000,Snapdragon,6.7,0,60959
+Samsung,Galaxy S,Galaxy S 1,4,128,50,5000,Exynos,6.0,0,30740
+Samsung,Galaxy S,Galaxy S 2,4,128,200,4500,Exynos,6.3,1,48568
+Samsung,Galaxy S,Galaxy S 3,8,256,50,5000,Snapdragon,6.7,1,41122
+Samsung,Galaxy S,Galaxy S 4,8,64,48,6000,Snapdragon,6.4,1,39798
+Samsung,Galaxy S,Galaxy S 5,6,256,64,5000,Snapdragon,6.2,1,44709
+Samsung,Galaxy S,Galaxy S 6,8,512,50,4500,Exynos,6.6,1,54224
+Samsung,Galaxy S,Galaxy S 7,8,512,64,3200,Exynos,6.4,1,58522
+Samsung,Galaxy S,Galaxy S 8,6,128,108,4500,Exynos,6.9,0,39049
+Samsung,Galaxy S,Galaxy S 9,6,512,108,6000,Snapdragon,6.8,1,62659
+Samsung,Galaxy S,Galaxy S 10,6,256,48,4500,Exynos,6.9,0,40259
+Samsung,Galaxy F,Galaxy F 1,12,128,48,6000,Snapdragon,6.8,0,52351
+Samsung,Galaxy F,Galaxy F 2,6,512,64,6000,Snapdragon,6.5,0,53833
+Samsung,Galaxy F,Galaxy F 3,6,128,12,4500,Exynos,6.9,0,27296
+Samsung,Galaxy F,Galaxy F 4,12,256,12,3200,Exynos,6.3,0,45967
+Samsung,Galaxy F,Galaxy F 5,8,128,48,5000,Snapdragon,6.2,0,41453
+Samsung,Galaxy F,Galaxy F 6,12,256,12,4000,Exynos,6.8,1,54009
+Samsung,Galaxy F,Galaxy F 7,4,512,48,3200,Snapdragon,6.1,0,38174
+Samsung,Galaxy F,Galaxy F 8,8,512,64,3200,Snapdragon,6.9,0,54029
+Samsung,Galaxy F,Galaxy F 9,6,512,12,4500,Exynos,6.9,1,42080
+Samsung,Galaxy F,Galaxy F 10,8,256,108,3200,Snapdragon,6.9,0,47898
+Samsung,Galaxy Z,Galaxy Z 1,8,256,50,5000,Exynos,6.0,0,46230
+Samsung,Galaxy Z,Galaxy Z 2,12,256,48,4500,Exynos,6.2,0,53322
+Samsung,Galaxy Z,Galaxy Z 3,12,512,108,3200,Snapdragon,6.2,0,75689
+Samsung,Galaxy Z,Galaxy Z 4,6,512,50,5000,Exynos,6.8,1,49414
+Samsung,Galaxy Z,Galaxy Z 5,6,256,12,3200,Exynos,6.3,1,34830
+Samsung,Galaxy Z,Galaxy Z 6,8,256,50,4000,Exynos,6.5,0,47018
+Samsung,Galaxy Z,Galaxy Z 7,8,256,50,3200,Exynos,6.9,1,46132
+Samsung,Galaxy Z,Galaxy Z 8,6,128,200,4000,Exynos,6.2,0,53641
+Samsung,Galaxy Z,Galaxy Z 9,12,512,108,3200,Snapdragon,7.0,1,75018
+Samsung,Galaxy Z,Galaxy Z 10,6,64,48,5000,Snapdragon,6.8,1,30816
+Redmi,Note,Note 1,4,512,64,3200,Snapdragon,6.7,1,41502
+Redmi,Note,Note 2,12,256,50,6000,Mediatek,6.0,1,52070
+Redmi,Note,Note 3,4,64,108,4000,Mediatek,6.0,0,33095
+Redmi,Note,Note 4,4,512,108,4500,Snapdragon,6.5,1,56314
+Redmi,Note,Note 5,8,128,50,4000,Mediatek,6.9,0,43048
+Redmi,Note,Note 6,6,512,12,6000,Snapdragon,6.8,0,41254
+Redmi,Note,Note 7,4,256,108,4500,Mediatek,6.6,1,44340
+Redmi,Note,Note 8,6,256,200,4000,Snapdragon,6.1,0,57056
+Redmi,Note,Note 9,4,128,12,4000,Snapdragon,6.4,0,24316
+Redmi,Note,Note 10,6,256,108,5000,Snapdragon,6.4,1,51298
+Redmi,K,K 1,12,64,64,3200,Snapdragon,6.6,1,51919
+Redmi,K,K 2,6,256,12,3200,Mediatek,6.9,0,28602
+Redmi,K,K 3,6,64,64,4500,Mediatek,6.5,1,30863
+Redmi,K,K 4,8,512,12,5000,Snapdragon,6.3,1,48471
+Redmi,K,K 5,8,64,108,4500,Mediatek,6.7,0,47445
+Redmi,K,K 6,12,128,108,4500,Snapdragon,6.8,1,56876
+Redmi,K,K 7,12,64,108,4500,Snapdragon,6.1,1,58538
+Redmi,K,K 8,12,64,12,4500,Mediatek,6.1,1,41854
+Redmi,K,K 9,6,64,50,5000,Mediatek,6.5,0,35780
+Redmi,K,K 10,6,256,200,4000,Mediatek,6.3,0,66912
+Redmi,A,A 1,6,128,50,4000,Mediatek,7.0,0,38407
+Redmi,A,A 2,8,512,48,4000,Mediatek,6.1,1,50398
+Redmi,A,A 3,6,512,48,4000,Mediatek,6.5,0,49709
+Redmi,A,A 4,4,64,48,4000,Snapdragon,6.7,1,24372
+Redmi,A,A 5,6,128,12,3200,Mediatek,6.1,1,31441
+Redmi,A,A 6,12,512,200,5000,Mediatek,6.8,1,80875
+Redmi,A,A 7,8,512,48,5000,Mediatek,6.3,1,48231
+Redmi,A,A 8,8,256,12,6000,Mediatek,6.3,1,36101
+Redmi,A,A 9,12,512,12,4000,Snapdragon,6.9,1,55306
+Redmi,A,A 10,4,128,48,4500,Snapdragon,6.9,0,27143
+Redmi,Pro,Pro 1,4,128,50,3200,Mediatek,6.3,1,30424
+Redmi,Pro,Pro 2,4,256,108,6000,Snapdragon,6.8,1,46489
+Redmi,Pro,Pro 3,12,512,64,5000,Snapdragon,6.3,1,60877
+Redmi,Pro,Pro 4,6,128,108,3200,Mediatek,6.6,0,38974
+Redmi,Pro,Pro 5,8,512,50,4500,Snapdragon,6.0,0,53864
+Redmi,Pro,Pro 6,6,128,200,5000,Mediatek,6.0,1,52545
+Redmi,Pro,Pro 7,6,512,12,4000,Snapdragon,6.7,0,37818
+Redmi,Pro,Pro 8,6,128,12,4500,Snapdragon,6.7,0,34423
+Redmi,Pro,Pro 9,12,128,108,4500,Mediatek,6.7,0,55057
+Redmi,Pro,Pro 10,8,128,64,4500,Snapdragon,6.2,1,42468
+Realme,C,C 1,8,128,64,5000,Snapdragon,6.1,1,38509
+Realme,C,C 2,4,256,200,6000,Mediatek,6.7,0,58283
+Realme,C,C 3,4,128,12,6000,Snapdragon,6.6,1,24604
+Realme,C,C 4,12,64,108,4000,Mediatek,6.9,1,55288
+Realme,C,C 5,4,128,200,3200,Mediatek,6.4,0,50147
+Realme,C,C 6,8,64,48,5000,Mediatek,6.5,1,36656
+Realme,C,C 7,6,128,50,6000,Mediatek,6.7,1,32712
+Realme,C,C 8,4,256,50,3200,Snapdragon,6.7,0,30344
+Realme,C,C 9,12,256,12,6000,Snapdragon,6.7,1,51956
+Realme,C,C 10,4,512,64,4000,Snapdragon,6.2,0,48878
+Realme,Narzo,Narzo 1,8,512,48,5000,Snapdragon,6.2,1,52006
+Realme,Narzo,Narzo 2,6,256,48,4500,Snapdragon,6.7,1,40565
+Realme,Narzo,Narzo 3,4,64,108,5000,Snapdragon,6.7,0,37098
+Realme,Narzo,Narzo 4,6,256,200,4000,Mediatek,6.3,1,57631
+Realme,Narzo,Narzo 5,4,512,48,3200,Mediatek,6.8,0,45607
+Realme,Narzo,Narzo 6,4,64,200,4500,Mediatek,6.9,1,51165
+Realme,Narzo,Narzo 7,4,64,12,3200,Snapdragon,6.5,1,19941
+Realme,Narzo,Narzo 8,6,512,50,5000,Mediatek,6.1,1,50873
+Realme,Narzo,Narzo 9,4,256,12,6000,Snapdragon,6.3,0,31722
+Realme,Narzo,Narzo 10,4,128,12,5000,Mediatek,6.4,0,20089
+Realme,GT,GT 1,12,64,64,3200,Mediatek,6.3,0,48816
+Realme,GT,GT 2,12,128,50,5000,Mediatek,6.1,0,51558
+Realme,GT,GT 3,12,64,64,3200,Mediatek,6.5,1,46667
+Realme,GT,GT 4,8,64,64,3200,Mediatek,6.8,0,43373
+Realme,GT,GT 5,6,128,108,4000,Mediatek,6.2,0,41841
+Realme,GT,GT 6,12,512,200,5000,Mediatek,6.4,0,85215
+Realme,GT,GT 7,6,128,108,4500,Snapdragon,6.3,0,38982
+Realme,GT,GT 8,8,128,64,4000,Snapdragon,7.0,0,38895
+Realme,GT,GT 9,6,256,200,5000,Mediatek,7.0,0,57539
+Realme,GT,GT 10,6,256,108,4000,Mediatek,6.0,1,52009
+Oppo,A,A 1,8,256,50,3200,Mediatek,6.8,0,46707
+Oppo,A,A 2,8,512,12,6000,Snapdragon,6.3,0,53225
+Oppo,A,A 3,12,128,12,4000,Snapdragon,6.2,0,47931
+Oppo,A,A 4,8,64,12,4000,Mediatek,6.8,1,37193
+Oppo,A,A 5,8,64,108,4000,Mediatek,6.6,0,42247
+Oppo,A,A 6,4,64,50,5000,Mediatek,6.9,1,28136
+Oppo,A,A 7,6,512,12,5000,Mediatek,6.1,0,43212
+Oppo,A,A 8,12,128,64,6000,Snapdragon,7.0,0,56869
+Oppo,A,A 9,12,256,48,4000,Snapdragon,6.3,1,49636
+Oppo,A,A 10,8,512,108,3200,Mediatek,6.2,0,65088
+Oppo,F,F 1,6,512,64,3200,Mediatek,6.8,1,51321
+Oppo,F,F 2,12,64,12,3200,Mediatek,6.1,0,41111
+Oppo,F,F 3,4,64,50,5000,Snapdragon,6.1,1,25808
+Oppo,F,F 4,8,512,108,6000,Mediatek,6.7,1,60048
+Oppo,F,F 5,4,256,108,3200,Snapdragon,6.2,0,48341
+Oppo,F,F 6,8,256,200,3200,Mediatek,6.9,0,63098
+Oppo,F,F 7,4,256,12,4500,Snapdragon,6.7,1,26833
+Oppo,F,F 8,6,64,50,3200,Mediatek,6.3,1,37686
+Oppo,F,F 9,8,128,108,4000,Mediatek,6.4,1,47712
+Oppo,F,F 10,8,512,108,4500,Mediatek,6.3,1,66400
+Oppo,Reno,Reno 1,4,128,108,5000,Mediatek,6.1,1,38060
+Oppo,Reno,Reno 2,4,256,64,6000,Snapdragon,6.5,0,39964
+Oppo,Reno,Reno 3,8,128,48,6000,Mediatek,6.7,0,39727
+Oppo,Reno,Reno 4,6,64,64,4000,Mediatek,6.7,0,39649
+Oppo,Reno,Reno 5,12,512,50,6000,Mediatek,6.0,1,63159
+Oppo,Reno,Reno 6,12,128,48,4500,Mediatek,6.2,1,48703
+Oppo,Reno,Reno 7,6,256,50,3200,Mediatek,6.5,1,34828
+Oppo,Reno,Reno 8,4,256,108,6000,Snapdragon,6.5,0,43695
+Oppo,Reno,Reno 9,4,64,64,6000,Mediatek,6.4,1,28542
+Oppo,Reno,Reno 10,8,64,108,5000,Mediatek,6.3,0,44869
+Vivo,Y,Y 1,12,64,12,4500,Snapdragon,6.9,1,39775
+Vivo,Y,Y 2,8,64,48,5000,Snapdragon,7.0,1,38912
+Vivo,Y,Y 3,4,512,108,4500,Snapdragon,6.4,0,50870
+Vivo,Y,Y 4,12,64,108,3200,Mediatek,6.9,1,59837
+Vivo,Y,Y 5,12,512,50,3200,Mediatek,6.1,0,58968
+Vivo,Y,Y 6,4,128,48,4000,Mediatek,7.0,1,33383
+Vivo,Y,Y 7,8,64,64,5000,Snapdragon,6.1,1,39565
+Vivo,Y,Y 8,8,256,200,6000,Snapdragon,6.2,1,62494
+Vivo,Y,Y 9,6,512,64,3200,Mediatek,6.5,1,55327
+Vivo,Y,Y 10,12,512,64,4500,Mediatek,6.5,0,70506
+Vivo,V,V 1,4,128,48,3200,Snapdragon,6.2,0,34998
+Vivo,V,V 2,12,512,12,4000,Snapdragon,6.3,0,55792
+Vivo,V,V 3,4,256,200,3200,Mediatek,7.0,1,55181
+Vivo,V,V 4,8,256,64,4500,Snapdragon,6.6,0,41303
+Vivo,V,V 5,8,128,50,3200,Snapdragon,6.5,1,38768
+Vivo,V,V 6,8,128,12,3200,Mediatek,6.3,0,35736
+Vivo,V,V 7,8,64,108,4000,Snapdragon,6.4,0,47439
+Vivo,V,V 8,6,512,48,3200,Mediatek,6.3,1,48770
+Vivo,V,V 9,8,256,64,4000,Mediatek,6.2,0,47680
+Vivo,V,V 10,6,128,64,4500,Mediatek,6.1,1,42230
+Vivo,X,X 1,8,64,12,5000,Snapdragon,7.0,1,33698
+Vivo,X,X 2,4,128,48,4500,Mediatek,6.1,1,31631
+Vivo,X,X 3,12,64,108,6000,Snapdragon,6.5,0,57315
+Vivo,X,X 4,12,512,12,6000,Mediatek,6.4,0,56566
+Vivo,X,X 5,4,256,48,6000,Snapdragon,6.1,1,35169
+Vivo,X,X 6,4,128,200,3200,Mediatek,6.7,1,55844
+Vivo,X,X 7,6,128,108,3200,Mediatek,6.7,1,41817
+Vivo,X,X 8,4,128,200,4000,Snapdragon,6.3,0,55365
+Vivo,X,X 9,8,256,12,3200,Mediatek,7.0,1,43359
+Vivo,X,X 10,12,128,64,5000,Snapdragon,6.1,1,51978
+Apple,iPhone SE,iPhone SE 1,8,128,108,4500,Bionic,6.2,0,67689
+Apple,iPhone SE,iPhone SE 2,12,64,108,4000,Bionic,6.2,1,70005
+Apple,iPhone SE,iPhone SE 3,6,256,48,4500,Bionic,6.5,0,51024
+Apple,iPhone SE,iPhone SE 4,4,256,64,3200,Bionic,6.1,1,46424
+Apple,iPhone SE,iPhone SE 5,8,512,64,4500,Bionic,6.6,1,73007
+Apple,iPhone SE,iPhone SE 6,6,128,50,6000,Bionic,6.1,0,44494
+Apple,iPhone SE,iPhone SE 7,6,64,200,4000,Bionic,6.0,1,68027
+Apple,iPhone SE,iPhone SE 8,12,64,50,3200,Bionic,6.1,1,58360
+Apple,iPhone SE,iPhone SE 9,4,256,12,5000,Bionic,6.8,1,47962
+Apple,iPhone SE,iPhone SE 10,4,64,64,6000,Bionic,6.5,1,38896
+Apple,iPhone,iPhone 1,6,512,200,3200,Bionic,6.9,0,89168
+Apple,iPhone,iPhone 2,6,64,12,3200,Bionic,6.3,0,42698
+Apple,iPhone,iPhone 3,12,128,48,6000,Bionic,6.8,1,68128
+Apple,iPhone,iPhone 4,6,64,50,4000,Bionic,6.6,0,45753
+Apple,iPhone,iPhone 5,12,512,12,5000,Bionic,6.5,1,70295
+Apple,iPhone,iPhone 6,6,512,12,3200,Bionic,6.3,1,60265
+Apple,iPhone,iPhone 7,12,512,48,6000,Bionic,6.8,0,76783
+Apple,iPhone,iPhone 8,4,512,12,5000,Bionic,6.3,0,47593
+Apple,iPhone,iPhone 9,4,256,48,3200,Bionic,6.5,1,46936
+Apple,iPhone,iPhone 10,6,256,12,4500,Bionic,6.1,1,46432
+Apple,iPhone Pro,iPhone Pro 1,6,64,12,6000,Bionic,6.5,0,46530
+Apple,iPhone Pro,iPhone Pro 2,4,128,12,3200,Bionic,6.8,1,42262
+Apple,iPhone Pro,iPhone Pro 3,12,512,50,3200,Bionic,6.5,0,82050
+Apple,iPhone Pro,iPhone Pro 4,4,256,64,5000,Bionic,6.9,0,53959
+Apple,iPhone Pro,iPhone Pro 5,6,512,50,4500,Bionic,6.6,1,65006
+Apple,iPhone Pro,iPhone Pro 6,12,256,48,6000,Bionic,6.1,1,64459
+Apple,iPhone Pro,iPhone Pro 7,4,256,12,6000,Bionic,6.2,1,38601
+Apple,iPhone Pro,iPhone Pro 8,12,128,108,6000,Bionic,6.3,0,71768
+Apple,iPhone Pro,iPhone Pro 9,6,128,108,6000,Bionic,7.0,1,61976
+Apple,iPhone Pro,iPhone Pro 10,6,256,50,6000,Bionic,6.1,0,54518
+Apple,iPhone Pro Max,iPhone Pro Max 1,6,512,64,6000,Bionic,6.8,0,65753
+Apple,iPhone Pro Max,iPhone Pro Max 2,4,128,50,4000,Bionic,6.1,0,40314
+Apple,iPhone Pro Max,iPhone Pro Max 3,6,256,108,6000,Bionic,6.1,0,57477
+Apple,iPhone Pro Max,iPhone Pro Max 4,6,64,12,4000,Bionic,6.3,0,37877
+Apple,iPhone Pro Max,iPhone Pro Max 5,6,128,200,3200,Bionic,6.4,1,67449
+Apple,iPhone Pro Max,iPhone Pro Max 6,6,256,50,5000,Bionic,6.8,1,57050
+Apple,iPhone Pro Max,iPhone Pro Max 7,8,128,48,3200,Bionic,6.7,0,52748
+Apple,iPhone Pro Max,iPhone Pro Max 8,12,64,200,3200,Bionic,6.7,0,85988
+Apple,iPhone Pro Max,iPhone Pro Max 9,6,512,200,3200,Bionic,6.9,0,79677
+Apple,iPhone Pro Max,iPhone Pro Max 10,12,512,64,6000,Bionic,6.8,1,76305
