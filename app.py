@@ -2,54 +2,44 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# -------------------------------
-# Load Model
-# -------------------------------
+# Load trained pipeline
 model = pickle.load(open("smartphone_model.pkl", "rb"))
 
 st.title("📱 Smart Phone Price Prediction App")
 
-st.write("Enter phone specifications below:")
+st.write("Enter Phone Specifications")
 
-# -------------------------------
 # User Inputs
-# -------------------------------
-
-brand = st.selectbox("Select Brand", 
+brand = st.selectbox("Select Brand",
                      ["Samsung", "Apple", "Xiaomi", "Oppo", "Vivo", "Realme"])
 
-series = st.text_input("Enter Series (Galaxy, iPhone, Redmi, etc)")
+series = st.text_input("Enter Series (Galaxy, iPhone, Redmi etc)")
 
-ram = st.number_input("Enter RAM (GB)", min_value=2, max_value=24, step=1)
+ram = st.number_input("RAM (GB)", 2, 24)
 
-storage = st.number_input("Enter Storage (GB)", min_value=32, max_value=1024, step=32)
+storage = st.number_input("Storage (GB)", 32, 1024)
 
-camera = st.number_input("Enter Camera (MP)", min_value=8, max_value=200, step=2)
+camera = st.number_input("Camera (MP)", 8, 200)
 
-battery = st.number_input("Enter Battery (mAh)", min_value=2000, max_value=7000, step=100)
+battery = st.number_input("Battery (mAh)", 2000, 7000)
 
-display = st.number_input("Enter Display Size (inches)", min_value=4.0, max_value=8.0, step=0.1)
+display = st.number_input("Display Size (inches)", 4.0, 8.0)
 
-processor = st.text_input("Enter Processor")
-
-is_5g = st.radio("5G Support?", ["Yes", "No"])
-
-# Convert Yes/No to 1/0
-if is_5g == "Yes":
-    is_5g = 1
-else:
-    is_5g = 0
-
-
-# -------------------------------
-# Prediction Button
-# -------------------------------
+is_5g = st.selectbox("5G Support", ["Yes", "No"])
 
 if st.button("Predict Price 💰"):
 
-    input_data = pd.DataFrame([[
-        ram, storage, camera, battery, display, is_5g
-    ]], columns=["RAM", "Storage", "Camera", "Battery", "Display", "5G"])
+    input_data = pd.DataFrame([{
+        "Brand": brand,
+        "Series": series,
+        "RAM": ram,
+        "Storage": storage,
+        "Camera": camera,
+        "Battery": battery,
+        "Display": display,
+        "Processor": "Snapdragon",   # Default or add input field
+        "5G": is_5g
+    }])
 
     prediction = model.predict(input_data)
 
